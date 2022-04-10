@@ -1,4 +1,5 @@
-# cst150_activity2
+# cst 150 - Topic 1 Activity 2
+tyson patten
 
 In this folder you'll find the Fahrenheit to Celsius Windows Forms App that I created that does the following:
 - allows for input from the user
